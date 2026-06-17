@@ -14,7 +14,7 @@ This repository contains lead sheets, sheet music, and educational music resourc
 
 ## Current Scores
 
-- Together We Shine (Lead Sheet)
+- Together We Shine
 
 More scores will be added over time.
 
