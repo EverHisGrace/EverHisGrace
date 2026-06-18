@@ -15,6 +15,7 @@ This repository contains lead sheets, sheet music, and educational music resourc
 ## Current Scores
 
 - Together We Shine
+- Jesus Holds My Hand
 
 More scores will be added over time.
 
