@@ -17,6 +17,7 @@ This repository contains lead sheets, sheet music, and educational music resourc
 - Together We Shine
 - Jesus Holds My Hand
 - One Tree
+- My Best Friend Jesus 
 
 More scores will be added over time.
 
