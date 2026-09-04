@@ -19,6 +19,7 @@ This repository contains lead sheets, sheet music, and educational music resourc
 - One Tree
 - My Best Friend Jesus
 - I Can Do All Things
+- The Super Supper!
 
 More scores will be added over time.
 
