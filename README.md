@@ -20,6 +20,8 @@ This repository contains lead sheets, sheet music, and educational music resourc
 - My Best Friend Jesus
 - I Can Do All Things
 - The Super Supper!
+- Step by Step
+- Baby Jesus Makes me Warm
 
 More scores will be added over time.
 
